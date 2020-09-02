@@ -1,14 +1,12 @@
-# temporary files
-*~
-*.bak
-*.log
-*.swp
-*.tmp
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# image caches
-.DS_Store
-Thumbs.db
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 
-# patch/merge
-*.orig
-*.rej
